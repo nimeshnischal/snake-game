@@ -20,20 +20,20 @@ A browser based 2000's popular snake game. Feed the snake, but don't feed itself
 * Do not feed the snake itself.
 
 ## Game too easy for you?
-```Keep pressing the arrow keys to boost the snake and opposite arrow keys to slow it down.```
+ **```Keep pressing the arrow keys to boost the snake and opposite arrow keys to slow it down.```**
 
 ## Tools Used
 
-* ### Phaser (<a>phaser.io</a>)
+* ### [Phaser](https://phaser.io)
 
     A desktop and mobile HTML5 open source game framework for Canvas and WebGL powered browser games.
    
-* ### Express JS (<a>expressjs.com</a>)
+* ### [Express JS](https://expressjs.com)
 
     A minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications.
 
 ## Acknowledgement
-Udemy's course on <a src="https://www.udemy.com/course/learn-modern-javascript-by-coding-a-snake-game">"Learn Modern Javascript by Coding a Snake Game".</a>
+Udemy's course on [Learn Modern Javascript by Coding a Snake Game](https://www.udemy.com/course/learn-modern-javascript-by-coding-a-snake-game).
 
 ## Note
 Will definitely appreciate suggestions, if any. This is a basic project made parallel with the course. Updates are on the way!
